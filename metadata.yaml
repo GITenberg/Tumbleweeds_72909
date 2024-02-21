@@ -8,6 +8,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '32639'
     url: http://www.gutenberg.org/2009/agents/32639
+covers:
+- cover_type: archival
+  image_path: 72909-h/images/cover.jpg
 creator:
   author:
     agent_name: Evarts, Hal G. (Hal George)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '8303'
     url: http://www.gutenberg.org/2009/agents/8303
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72909#Tumbleweeds
 gutenberg_issued: '2024-02-09'
 gutenberg_type: Text
 identifiers:
